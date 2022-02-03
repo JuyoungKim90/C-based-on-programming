@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/GomokuGame1.csproj": {}
+  },
+  "projects": {
+    "/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/GomokuGame1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/GomokuGame1.csproj",
+        "projectName": "GomokuGame1",
+        "projectPath": "/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/GomokuGame1.csproj",
+        "packagesPath": "/Users/YangsuYun/.nuget/packages/",
+        "outputPath": "/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/YangsuYun/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

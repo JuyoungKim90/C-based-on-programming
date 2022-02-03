@@ -1,0 +1,26 @@
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.csproj.AssemblyReference.cache
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.AssemblyInfoInputs.cache
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.AssemblyInfo.cs
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.csproj.CoreCompileInputs.cache
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.deps.json
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.runtimeconfig.json
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.runtimeconfig.dev.json
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.dll
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.pdb
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.dll
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.pdb
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/GomokuGame1/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.genruntimeconfig.cache
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.deps.json
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.runtimeconfig.json
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.runtimeconfig.dev.json
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.dll
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/bin/Debug/netcoreapp3.1/GomokuGame1.pdb
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.csproj.AssemblyReference.cache
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.AssemblyInfoInputs.cache
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.AssemblyInfo.cs
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.csproj.CoreCompileInputs.cache
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.dll
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.pdb
+/Users/YangsuYun/Desktop/IFN563_object oriented Design/Ass/Final_game/Final Project_GomokuGame/GomokuGame1/obj/Debug/netcoreapp3.1/GomokuGame1.genruntimeconfig.cache
